@@ -1,6 +1,8 @@
 This is a game simulator that 
+
 (1) displays and plays Gomoku game in a larger board to get 5 stones in a row
     and detects successful completion of the game or a draw.
+    
 (2) displays and plays TicTacToe game and
   - repeatedly displays the current state of a game
   - prompts the user and receives input for the next move in the game,
