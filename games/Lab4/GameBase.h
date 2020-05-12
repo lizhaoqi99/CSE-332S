@@ -1,5 +1,5 @@
 // GameBase.h
-// Steve Li (zhaoqi.li@wustl.edu), Xiaowen Ma (maxiaowen@wustl.edu), Claire Zhang (zhangbin@wustl.edu)
+// Steve Li (zhaoqi.li@wustl.edu)
 // This is the header file for GameBase. It contains declaration of class GameBase.
 // It also contains the enumeration that is used in the program.
 
