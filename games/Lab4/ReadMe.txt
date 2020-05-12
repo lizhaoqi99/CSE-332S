@@ -1,13 +1,3 @@
-CSE332S Lab 4
-Team Name: li_ma_zhang
-Steve Li, wustlkey: zhaoqi.li
-Xiaowen Ma, wustlkey:maxiaowen
-Claire Zhang, wustlkey: zhangbin
-
-[Distribution of work]
-Steve and Claire focused on refactoring the game class into a base class (GameBase) and a derived class (TicTacToe). Xiaowen focused on adding a second game (Gomoku). After finished our individual pieces, we worked together to put those pieces together into one working piece. 
-Together, we also debugged and made the work error free, finished the extra credit component, and finished the ReadMe.txt. More specifically for the write-up, Steve wrote the test cases for TicTacToe game, Xiaowen wrote the test cases for Gomoku game, and Claire wrote the test cases for the extra credit part.
-
 [Errors and warnings]
 One error that we had was that when we used the extraction operator to print the game board, the board was not printed but instead a line of hexadecimals were shown. The hexadecimal display was an indication of memory address being printed. The error was caused by this line of code: 
 cout << this;

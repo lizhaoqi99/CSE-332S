@@ -1,5 +1,5 @@
 // Gomoku.cpp
-// Steve Li (zhaoqi.li@wustl.edu), Xiaowen Ma (maxiaowen@wustl.edu), Claire Zhang (zhangbin@wustl.edu)
+// Steve Li (zhaoqi.li@wustl.edu)
 // This is the source file for Gomoku. It contains the function definitions of class Gomoku.
 // The functions defined here include a Gomoku constructor, print, << operator, done, draw and turn.
 

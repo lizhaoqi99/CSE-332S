@@ -1,5 +1,5 @@
 // TicTacToeGame.cpp
-// Steve Li (zhaoqi.li@wustl.edu), Xiaowen Ma (maxiaowen@wustl.edu), Claire Zhang (zhangbin@wustl.edu)
+// Steve Li (zhaoqi.li@wustl.edu)
 // This is the sourecefile for TicTacToe game. It contains the function definitions of TicTacToeGame.
 // Functions defined here include a TicTacToeGame constructor, print, << operator, done, draw and turn.
 

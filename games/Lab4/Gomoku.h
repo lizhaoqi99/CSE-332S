@@ -1,5 +1,5 @@
 // Gomoku.h
-// Steve Li (zhaoqi.li@wustl.edu), Xiaowen Ma (maxiaowen@wustl.edu), Claire Zhang (zhangbin@wustl.edu)
+// Steve Li (zhaoqi.li@wustl.edu)
 // This is the header file for Gomoku. It contains the declaration for class Gomoku.
 
 #pragma once
