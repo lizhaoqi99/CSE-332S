@@ -1,6 +1,4 @@
 /*
-Author: Jon Shidal
-Purpose: CSE 332 lab 5
 filesystem.cpp : This file contains the 'main' function. Program execution begins and ends there.
 */
 
