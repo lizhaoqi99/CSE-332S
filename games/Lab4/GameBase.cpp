@@ -1,5 +1,5 @@
 // GameBase.cpp
-// Steve Li (zhaoqi.li@wustl.edu), Xiaowen Ma (maxiaowen@wustl.edu), Claire Zhang (zhangbin@wustl.edu)
+// Steve Li (zhaoqi.li@wustl.edu)
 // This is the source file for GameBase. It contains the function definitions of class GameBase.
 // The functions defined here include a GameBase constructor, prompt, check, play, and usageMessage.
 
