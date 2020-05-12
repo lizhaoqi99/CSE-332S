@@ -1,6 +1,6 @@
 // Lab4.cpp
 // Lab4.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// Steve Li (zhaoqi.li@wustl.edu), Xiaowen Ma (maxiaowen@wustl.edu), Claire Zhang (zhangbin@wustl.edu)
+// Steve Li (zhaoqi.li@wustl.edu)
 
 #include <iostream>
 #include "GameBase.h"
